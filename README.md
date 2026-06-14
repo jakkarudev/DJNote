@@ -20,9 +20,9 @@ Get the latest public builds from the [GitHub Releases page](https://github.com/
 
 Current public desktop asset:
 
-- macOS: `DJNote_1.1.3_x64.dmg`
+- macOS: `DJNote_1.2.1_x64.dmg`
 
-Windows EXE releases will be added when a signed Windows build is available.
+Windows EXE releases will be added when the Windows build artifact is available.
 
 ## Screenshots
 
