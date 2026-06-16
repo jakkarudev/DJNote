@@ -32,8 +32,7 @@ Download the latest public builds from the [GitHub Releases page](https://github
 Current public desktop build:
 
 - macOS: `DJNote_1.2.1_x64.dmg`
-
-Windows EXE releases will be added when the Windows build artifact is available.
+- Windows: `DJNote_1.2.1_x64.exe`
 
 ## Screenshots
 
