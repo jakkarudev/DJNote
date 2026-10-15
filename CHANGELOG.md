@@ -28,6 +28,7 @@ The biggest update since launch. Desktop builds: universal macOS DMG (Apple Sili
 - **Settings changed offline** are kept and sent once you're back online.
 
 ### Fixed
+- **The app opens fast again.** It could sit on the loading screen for up to 30 seconds, online or offline; now it opens straight away from what's on your device and catches up in the background.
 - **Sync is much faster** and no longer times out on large libraries. Only changed items are downloaded.
 - **Editing on two devices**: the newest edit wins, and a device finds out when its change lost.
 - **The selected Track no longer shows as a Match against itself.**
