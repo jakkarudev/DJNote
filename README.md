@@ -31,8 +31,9 @@ Download the latest public builds from the [GitHub Releases page](https://github
 
 Current public desktop build:
 
-- macOS: `DJNote_1.2.1_x64.dmg`
-- Windows: `DJNote_1.2.1_x64.exe`
+- macOS (Apple Silicon and Intel): `DJNote_1.3.1_universal.dmg`
+- Windows: `DJNote_1.3.1_x64-setup.exe` or `DJNote_1.3.1_x64_en-US.msi`
+- Android: [Google Play](https://play.google.com/store/apps/details?id=com.djnote.app)
 
 ## Screenshots
 
